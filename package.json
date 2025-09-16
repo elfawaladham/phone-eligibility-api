@@ -14,6 +14,10 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "@temporalio/activity": "^1.13.0",
+    "@temporalio/client": "^1.13.0",
+    "@temporalio/worker": "^1.13.0",
+    "@temporalio/workflow": "^1.13.0",
     "dotenv": "^17.2.2",
     "express": "^5.1.0",
     "pg": "^8.16.3"
